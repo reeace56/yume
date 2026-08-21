@@ -1,8 +1,23 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "9bc3807d34ba58c5fab2d5ebf1d795c1212b0706dabcdda16a7a3684c8973c1e"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "e9654c5d253e4fdc00ac2f0ffa32a38ed9c93e9d052e8095deaf054e1efb8bd1"
+metafile = true
+
+[[files]]
+file = "mods/dreamdisplays.pw.toml"
+hash = "f4b0f612e5298c714d64da6e3dd005f5b94cbeb868c969d5156ed7d1a386e925"
 metafile = true
 
 [[files]]
@@ -36,13 +51,8 @@ hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d547f22c378e1b2d3bf84ce4975c9d3b9f0626c8eafc9ea05b7167f18ebee3d2"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "817c6920319ead7093fce90e1e3fd6f9a4241fa31554f260158306614e344bab"
+file = "resourcepacks/lullaby6-enchantment-descriptions.pw.toml"
+hash = "03384303b557a9848d36bb550461252f85f645cf094e9739b0c9b73545a4ebbf"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Lullaby6 Enchantment Descriptions"
+filename = "Lullaby6 Enchantment Descriptions.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AzQ0Lpoa/versions/bffxUQ5z/Lullaby6%20Enchantment%20Descriptions.zip"
+hash-format = "sha512"
+hash = "4f15e407366fa68ba260282ba34a8c6b8dcc1a9eee89f80a2bf2ace7351592b8328a67f38bd4fbe2b05ece5df3da24fed7341272808218c789f01f7f7eab2a51"
+
+[update]
+[update.modrinth]
+mod-id = "AzQ0Lpoa"
+version = "bffxUQ5z"
