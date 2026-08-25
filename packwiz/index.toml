@@ -21,6 +21,16 @@ hash = "666fe3edc9284be9f529734ad4e4e3202ecfd81ffdea323af424464434f96fe2"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "64240a3c888964149e4131d8e632ea82e5a1c139e8bcd7ef19edce2e000c697c"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "a75bdbac2acd303a8507a09da5d66d6451a147f1c6a967d81e3f0fb55084e828"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ef9b3d887d5b2b31809fda35b2bfa4d68346e4491d4b52128358c2ed77741b89"
 metafile = true
@@ -28,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -41,8 +56,18 @@ hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "566a59532a3429cb222b4ec92f9b307f42159016c2c4f3bcc25f32797224c3b1"
+file = "mods/plasmo-voice.pw.toml"
+hash = "188dd35474187c5957af5e66b7f57e8c666b019accf76cba9f55b2c79ae3013b"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "c0cda45c0b9cbc05935f935ab57268a12819e8cf85f1aef7e717b858e3f55bd2"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "b86932404ab4e1acdedfcd55ca4dd10f2c8de808bfb547cba6fe20b1edee754b"
 metafile = true
 
 [[files]]
@@ -58,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ed184d202392aeebaf0228fbc7fbdcaa1f96971bedddf0649b564efab6825260"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "393c8e4dc6e15eecc32e152d835cd8f3dce96b40b5984ca00b6e0142ede7396f"
 metafile = true
 
 [[files]]
