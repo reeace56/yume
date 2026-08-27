@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/dreamdisplays.pw.toml"
-hash = "666fe3edc9284be9f529734ad4e4e3202ecfd81ffdea323af424464434f96fe2"
+hash = "79f7afe08b949f77da5a9e099366a1e6f4f3df53b0843bacd7d07e7fb71ffba9"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "188dd35474187c5957af5e66b7f57e8c666b019accf76cba9f55b2c79ae3013b"
+hash = "bc7e0657a640b27edec14bcc0e4a1af0df14da8c06a6fb012612d387f56157fd"
 metafile = true
 
 [[files]]
