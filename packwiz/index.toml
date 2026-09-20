@@ -56,8 +56,13 @@ hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
 
 [[files]]
+file = "mods/patpat.pw.toml"
+hash = "c76ee40840dafed859a36b483d79721cc544cfc6fa2d705a3ffe49331d199cd4"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "bc7e0657a640b27edec14bcc0e4a1af0df14da8c06a6fb012612d387f56157fd"
+hash = "26323b3bfe3284b54b0e6ad0a908ae6ce3315d1ba949420ff5a827dc1abb7f4b"
 metafile = true
 
 [[files]]
