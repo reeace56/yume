@@ -36,6 +36,11 @@ hash = "ef9b3d887d5b2b31809fda35b2bfa4d68346e4491d4b52128358c2ed77741b89"
 metafile = true
 
 [[files]]
+file = "mods/eunomia.pw.toml"
+hash = "d7eddc705e64729c663bda0be23fc8356d79ccd2186643fb1c6ef4b6c9636cb0"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
+metafile = true
+
+[[files]]
+file = "mods/zannaghs-armor-hider.pw.toml"
+hash = "11f7d15850997b6d6f704affe483adbdbf1d7fa675aef2dfc1addcd6b937d4d2"
 metafile = true
 
 [[files]]
